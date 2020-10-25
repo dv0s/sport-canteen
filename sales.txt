@@ -1,0 +1,2 @@
+soup;50
+coffee;99
